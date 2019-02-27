@@ -1,0 +1,10 @@
+Stefan Emmons
+COSC 2030-01
+Lab 03
+Dr. Hill, or Pedro Marquez
+2-27-2019
+
+The only python modules I had to import for this lab was the module "operator". 
+The ops variable is actually a dictionary. This is something that is relatively native to Python, and is very similar to a set or class in C++. 
+The main purpose of dictionaries is to map key values, such as operators in the case of this lab.
+Python has lists, sets, dictionaries, and tuples. These are the most commonly used "container" data structures used within Python.
