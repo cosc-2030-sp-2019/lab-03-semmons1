@@ -8,5 +8,9 @@ Note that unless we import "math" or "operator", most compilers don't know what 
 The quadratic formula I am working with: [(-b +- (b^2 - 4ac)^0.5) / (2a)] <br/>
 This is first variation of the Quadratic Formula, using postfix notation: <br/>
 b - b 2 ^ 4 a * c * - 0.5 ^ 2 a * / + /<br/>
-Conversely, the second variation of the Quadractic formula is: <br/>
+Conversely, the second variation of the Quadractic formula using postfix notation is: <br/>
 b - b 2 ^ 4 a * c * - 0.5 ^ 2 a * / - <br/>
+This is first variation of the Quadratic Formula, using prefix notation: <br/>
+/ + - b ^ + ^ b 2 * * 4 a c 0.5 * 2 a <br/>
+Conversely, the second variation of the Quadractic formula using prefix notation is: <br/>
+/ + - b ^ - ^ b 2 * * 4 a c 0.5 * 2 a <br/>
